@@ -1,0 +1,5 @@
+metric,of_ratio,pressure_bar,value,unit
+stoichiometric_of_ratio,9.413203108291153,,9.413203108291153,-
+maximum_cstar_at_20_bar,5.25,20.0,1626.7129396912926,m/s
+maximum_vacuum_isp_at_20_bar,5.5,20.0,290.2462271039343,s
+maximum_sea_level_isp_at_20_bar,5.5,20.0,164.24972943349243,s

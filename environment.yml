@@ -1,0 +1,11 @@
+name: mkws-hybrid-rocket
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cantera>=3.0
+  - numpy
+  - pandas
+  - matplotlib
+  - reportlab
+
